@@ -1,4 +1,4 @@
-sportlogos.github.io
-====================
+# sportlogos.github.io
 
-Sport(s) Logos Website
+Sport(s) Logos Web Site - [sportlogos.github.io](http://sportlogos.github.io)
+
